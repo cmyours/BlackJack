@@ -1,0 +1,12 @@
+# Java build output
+bin/
+*.class
+
+# Eclipse workspace/user settings
+.settings/
+.metadata/
+
+# Other temporary files
+*.log
+.DS_Store
+Thumbs.db
